@@ -1,0 +1,303 @@
+<!DOCTYPE HTML>
+<html><head>
+	<!-- <title>BrightWorks</title> -->
+	<title>Brightworks Sustainability</title>
+
+<script src="//use.typekit.net/ofi2hjp.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+
+	<meta name="viewport" content="width=device-width, minimumscale=1.0, maximum-scale=1.0" />
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700|Crete+Round">
+	<link rel="stylesheet" type="text/css" href="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/themes/brightworks/css/style.css?ver=7112">
+	<link rel="stylesheet" type="text/css" href="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/themes/brightworks/css/responsive.css">
+	<script src="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/themes/brightworks/js/jquery-1.10.2.min.js"></script>
+
+	<script src="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/themes/brightworks/js/jquery.masonry.js"></script>
+
+
+    
+
+ 
+
+<script src="http://www.brightworks.net/dev/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider-min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="http://www.brightworks.net/dev/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css">
+
+
+
+
+    
+                        <script src="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/themes/brightworks/js/Chart.min.js"></script>
+    <script>
+	    $(function(){
+			$(".project-slider-image").click(function() {
+				var img_path = $(this).css("background-image");
+
+				var imgUrl = img_path.replace("url(", "");
+				imgUrl = imgUrl.replace(")", "");
+				
+				imgUrl = imgUrl.replace(/"/g, '');
+				//imgUrl = '"' + imgUrl + '"';
+
+				$(".project-featured-image img").attr("src", imgUrl);
+				$(".project-slider-image").removeClass("selected-slider");
+				$(this).addClass("selected-slider");
+			});
+	    });
+	</script>
+            
+    
+    
+    
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#008fb4">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51732446-17', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+<body>
+	    <div id="contentContainer"></div>
+		<div id="header">
+			<div id="inner-header">
+				<div id="logo"><a href="http://brightworks.net/dev"><img src="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/10/Brightworks_Logo_500px.png" width="250px" /></a></div>
+
+
+
+				<div id="navigation">
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-7005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7005"><a href="http://brightworks.net/dev/services/">Services</a></li>
+<li id="menu-item-148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="http://brightworks.net/dev/projects/">Projects</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://brightworks.net/dev/clients/">Clients</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://brightworks.net/dev/people/">People</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://brightworks.net/dev/contact/">Contact</a></li>
+</ul></div>				</div>
+			</div>
+		</div>
+<div id="content-area">
+    <div style="margin:0 auto;width:1022px;position:relative;padding:15px 0;">
+    <div style="width:300px;float:left;"> <img style="width:310px;" src="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/01/Jesus-Bendezu-of-Brightworks-Sustainability-in-Los-Angeles-New-York-Oakland-and-Portland.jpg"/>
+      <div class="periwinkleBg" style="width:270px;margin:5px 0;padding:20px;">
+        <h3 style="color:#003260; margin:0;">Contact Jesús Bendezú</h3>
+        <ul style="list-style:none;margin:10px 15px 10px 0;padding:0;">
+                  <li style="margin: 5px 0;"><i class="fa fa-phone fa-fw" style="margin-right: 10px;vertical-align: middle;color: #003260;"></i><a style="font-size: 14px; color:#2b92b5;text-decoration:none;font-family:Open Sans;" href="tel:+14152302135">(415) 230-2135</a></li>
+                              <li style="margin: 5px 0;"><i class="fa fa-envelope fa-fw" style="margin-right: 10px;vertical-align: middle;color: #003260;"></i><a style="font-size: 14px; color:#2b92b5;text-decoration:none;font-family:Open Sans;" href="mailto:jesus.bendezu@brightworks.net">jesus.bendezu@brightworks.net</a></li>
+                             </ul>
+      </div>
+      
+      
+      
+      
+      
+<div class="periwinkleBg" style="width:270px;margin:5px 0;padding:20px;">
+
+<h3 style="margin:0; color:#003260;">Offices</h3>
+<ul style="list-style:none;margin:10px 0;padding:0;">
+<li><a style="text-decoration:none;" href="http://brightworks.net/dev/contact/#oakland-office"><div style="color:#2b92b5;font-family:Open Sans;font-size:14px;line-height:32px;text-decoration:none;">Oakland</div></li>
+</ul>
+</div>
+      
+      
+      
+      
+      <div class="periwinkleBg" style="width:270px;margin:5px 0;padding:20px;">
+
+
+
+    <h3 style="margin:0; color:#003260;">Other Oakland Staff</h3>
+        
+	<ul style="list-style:none;margin:10px 0;padding:0;">
+    
+    <li><a style="color:#2b92b5;font-family:Open Sans;font-size:14px;line-height:32px;text-decoration:none;" href="http://brightworks.net/dev/people/erin/">ERIN MULBERG</a></li><li><a style="color:#2b92b5;font-family:Open Sans;font-size:14px;line-height:32px;text-decoration:none;" href="http://brightworks.net/dev/people/lauren-fakhoury/">LAUREN FAKHOURY</a></li><li><a style="color:#2b92b5;font-family:Open Sans;font-size:14px;line-height:32px;text-decoration:none;" href="http://brightworks.net/dev/people/james-jenkins/">JAMES JENKINS</a></li><li><a style="color:#2b92b5;font-family:Open Sans;font-size:14px;line-height:32px;text-decoration:none;" href="http://brightworks.net/dev/people/shilpa-surana/">SHILPA SURANA</a></li><li><a style="color:#2b92b5;font-family:Open Sans;font-size:14px;line-height:32px;text-decoration:none;" href="http://brightworks.net/dev/people/leilanie-bruce/">LEILANIE BRUCE</a></li><li><a style="color:#2b92b5;font-family:Open Sans;font-size:14px;line-height:32px;text-decoration:none;" href="http://brightworks.net/dev/people/jesus-bendezu/">JESÚS BENDEZÚ</a></li><li><a style="color:#2b92b5;font-family:Open Sans;font-size:14px;line-height:32px;text-decoration:none;" href="http://brightworks.net/dev/people/heath-blount/">HEATH BLOUNT</a></li></ul>        
+        
+        
+        
+        <p style="color:#676767;">VIEW ALL <a href="/dev/people" style="color:#008FB4;text-decoration:none;">OTHER STAFF &rsaquo;</a></p>
+      </div>
+      
+    </div>
+    <div style="width:680px;margin-left:40px;float:left;" class="person-profile">
+      <h2 style="font-weight:700;font-family:Open Sans;color:#01498B;margin:3px 0 0 0;">Jesús Bendezú</h2>
+      <h3 style="font-weight:300;text-transform:uppercase;font-family:'museo-sans';color:#008FB4;margin:3px 0 15px 0;">Project Manager</h3>
+      <div class="profile" style="color:#676767;font-size:16px;letter-spacing:0.5px;"><p>A registered architect in New Mexico, where he spent over a decade practicing sustainable architecture, Jesus Bendezu has worked with pioneers of sustainable architecture and alternative construction systems, including Ed Mazria, founder of Architecture 2030; Paula Baker-Laporte; Pliny Fisk; and Gail Vittori.</p>
+<p>His expertise includes non-toxic design, energy efficiency, daylighting design, passive solar design, sustainable materials and specifications, and alternative construction systems. These include adobe, straw bale, straw-clay, pumicecrete, calichecrete, compressed earthen block (CEB), and autoclaved aerated concrete (AAC).</p>
+<p>Born in Peru and raised in Peru and the U. S., Jesus serves as point of contact for Brightworks clients in South America. For example, the cosmetics brand Yanbal retained Brightworks to achieve LEED certification for several facilities, and Bancolombia, the largest commercial bank in Colombia.</p>
+<p>Today, in addition to his expertise in healthy design, materials specifications, and passive solar design, Jesus offers expertise in:</p>
+<ul>
+<li>LEED for New Construction (LEED NC)</li>
+<li>LEED for Existing Buildings: Operations &amp; Maintenance (LEED EB:O&amp;M)</li>
+<li>LEED for Commercial Interiors (LEED CI)</li>
+<li>LEED for Core &amp; Shell (LEED CS)</li>
+<li>Healthy Materials</li>
+<li>Daylighting Design</li>
+<li>The Natural Step (TNS)</li>
+<li>California AB1103</li>
+<li>CalGreen</li>
+</ul>
+ </div>
+              <br/>
+            <h4 style="font-family:Open Sans;color:#01498B;font-size:16px;margin:0;text-transform:uppercase;">Education</h4>
+      <div class="profile-cat"><ul>
+<li><strong>Iowa State University</strong><br />
+Bachelor of Architecture</li>
+</ul>
+</div>
+      <br/>
+                  <h4 style="font-family:Open Sans;color:#01498B;font-size:16px;margin:0;text-transform:uppercase;">Professional Memberships</h4>
+      <div class="profile-cat"><ul>
+<li><strong>U. S. Green Building Council</strong><br />
+LEED Accredited Professional</li>
+<li><strong>National Council of Architectural Registration Boards (NCARB)</strong><br />
+Member</li>
+<li><strong>Association for the Advancement of Sustainability in Higher Education</strong><br />
+Member</li>
+<li><strong>City of Santa Fe, Green Building Code Advisory Committee</strong><br />
+Past Member</li>
+<li><strong>U. S. Green Building Council, Greenbuild</strong><br />
+Past Host for Latin American Delegations</li>
+<li><strong>Austin Sustainable Building Coalition</strong><br />
+Past Member</li>
+</ul>
+</div>
+      <br/>
+                  <h4 style="font-family:Open Sans;color:#01498B;font-size:16px;margin:0;text-transform:uppercase;">Selected Experience</h4>
+      <div class="profile-cat"><ul>
+<li>Baker-Laporte &amp; Associates (now EcoNest Architecture)</li>
+<li>Mazria Odems Dzurec</li>
+<li>McKinney-Stanley Architects</li>
+<li>Center for Maximum Potential Building Systems</li>
+</ul>
+</div>
+      <br/>
+	                          
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        <div class="threeRelatedProjectsPeopleTitle" style="font-size: 16px;font-weight: bold; color:#01498B;margin-top:10px;margin-bottom:15px; font-family:Open Sans;">SELECTED PROJECTS</div>
+        <div class="threeRelatedProjectsPeople">
+        
+        
+
+	<div id="1146" class="projectHoverImg profile-box" style="width:215px;height:215px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Port-San-Francisco-Cruise-Ship-Terminal-Americas-Cup-Portland-Oregon-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-right:30px;margin-bottom: 30px;">
+	
+	<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 215px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+							<div style="position:absolute;top:50px;width:215px;">
+								<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px 20px; font-size: 14px; display: none;">Port of San Francisco</h5>
+								<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; font-weight: 200;text-overflow: ellipsis;">Pier 27 James R. Herman Cruise Ship Terminal</h6>
+								
+							</div></div><div id="1146" class="projectHoverImg profile-box" style="width:215px;height:215px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Yanbal-Manufacturing-LEED-2.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-right:30px;margin-bottom: 30px;">
+	
+	<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 215px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+							<div style="position:absolute;top:50px;width:215px;">
+								<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px 20px; font-size: 14px; display: none;">Yanbal Cosmetics</h5>
+								<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; font-weight: 200;text-overflow: ellipsis;">KEOPS Manufacturing Facility</h6>
+								
+							</div></div><div id="1146" class="projectHoverImg profile-box" style="width:215px;height:215px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/10/Brightworks-Sustainability-San-Francisco-49ers-New-Stadium-Santa-Clara-Field-Game-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-right:30px;margin-bottom: 30px;">
+	
+	<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 215px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+							<div style="position:absolute;top:50px;width:215px;">
+								<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px 20px; font-size: 14px; display: none;">San Francisco 49ers</h5>
+								<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; font-weight: 200;text-overflow: ellipsis;">New Levi&#8217;s Stadium</h6>
+								
+							</div></div>    
+    
+        
+        
+</div> <!-- threeRelatedProjectsPeople -->
+        
+        
+        
+      
+      
+      
+      
+      
+      
+    </div>
+    <br style="clear:both;"/>
+  </div>
+</div>
+<br style="clear:both;"/>
+		<div id="footer">
+
+<div id="footer-inner-wrapper">
+				<ul	id="city-menu">
+
+                	
+					<li><a href="/contact/#portland">Portland</a></li>
+	
+					<li><a href="/contact/#oakland">Oakland</a></li>
+	
+					<li><a href="/contact/#seattle">Seattle</a></li>
+	
+					<li><a href="/contact/#los-angeles">Los Angeles</a></li>
+	
+					<li><a href="/contact/#new-york">New York</a></li>
+				</ul>
+
+
+
+<div id="footer-inner-wrapper">
+				
+				<div id="copyright-block">Copyright &copy; 2001-2015 Brightworks Sustainability Advisors. All rights reserved.</div>
+				
+			</div>
+
+
+			
+			<br style="clear:both;"/>
+		</div>
+	</div>
+</body>
+</html>
+<script>
+
+	    $(function(){
+			$(".profile-box").hover(function() { $(this).find(".profile-box-highlight").css("display", "block"); $(this).find(".peopleText").css("display", "block");}, function() { $(".profile-box-highlight").css("display", "none"); $(this).find(".peopleText").css("display", "none");}); 
+
+$(".noImagePresent").hover(function() { $(this).find(".profile-box-highlight").css("display", "block"); $(this).find(".peopleText").css("color", "#fff");}, function() { $(".profile-box-highlight").css("display", "none"); $(this).find(".peopleText").css({"color": "#008FB4","display": "block"});}); 
+
+			/* hyperlink added instead of this
+			$(".profile-box").click(function() {
+				window.location.href = '/profile?person='+$(this).attr("id");
+			});
+			*/
+	    });
+</script>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Content Delivery Network via d5v55k5cawcao.cloudfront.net
+
+ Served from: brightworks.net @ 2015-06-11 18:26:22 by W3 Total Cache -->

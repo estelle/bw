@@ -1,0 +1,94 @@
+[17-Aug-2013 09:09:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-clients.php on line 44
+[17-Aug-2013 09:09:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-clients.php on line 44
+[17-Aug-2013 09:09:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-clients.php on line 44
+[17-Aug-2013 09:09:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-clients.php on line 44
+[17-Aug-2013 09:09:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-clients.php on line 44
+[17-Aug-2013 09:09:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-clients.php on line 44
+[20-Aug-2013 08:11:14 UTC] PHP Fatal error:  Cannot use object of type WP_Post as array in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-profile.php on line 39
+[27-Sep-2013 20:22:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 55
+[27-Sep-2013 20:22:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 63
+[27-Sep-2013 20:22:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 71
+[27-Sep-2013 20:22:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 76
+[27-Sep-2013 20:22:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 83
+[27-Sep-2013 20:22:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 93
+[27-Sep-2013 20:22:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 101
+[27-Sep-2013 20:22:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 105
+[28-Sep-2013 20:53:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 55
+[28-Sep-2013 20:53:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 63
+[28-Sep-2013 20:53:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 71
+[28-Sep-2013 20:53:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 76
+[28-Sep-2013 20:53:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 83
+[28-Sep-2013 20:53:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 93
+[28-Sep-2013 20:53:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 101
+[28-Sep-2013 20:53:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 105
+[07-Oct-2013 01:01:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 55
+[07-Oct-2013 01:01:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 63
+[07-Oct-2013 01:01:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 71
+[07-Oct-2013 01:01:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 76
+[07-Oct-2013 01:01:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 83
+[07-Oct-2013 01:01:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 93
+[07-Oct-2013 01:01:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 101
+[07-Oct-2013 01:01:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 105
+[07-Oct-2013 01:18:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 55
+[07-Oct-2013 01:18:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 63
+[07-Oct-2013 01:18:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 71
+[07-Oct-2013 01:18:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 76
+[07-Oct-2013 01:18:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 83
+[07-Oct-2013 01:18:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 93
+[07-Oct-2013 01:18:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 101
+[07-Oct-2013 01:18:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 105
+[07-Oct-2013 01:21:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/single.php on line 55
+[07-Oct-2013 01:21:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/single.php on line 63
+[07-Oct-2013 01:21:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/single.php on line 71
+[07-Oct-2013 01:21:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/single.php on line 76
+[07-Oct-2013 01:21:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/single.php on line 83
+[07-Oct-2013 01:21:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/single.php on line 93
+[07-Oct-2013 01:21:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/single.php on line 101
+[07-Oct-2013 01:21:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/single.php on line 105
+[07-Oct-2013 01:21:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/single.php on line 55
+[07-Oct-2013 01:21:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/single.php on line 63
+[07-Oct-2013 01:21:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/single.php on line 71
+[07-Oct-2013 01:21:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/single.php on line 76
+[07-Oct-2013 01:21:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/single.php on line 83
+[07-Oct-2013 01:21:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/single.php on line 93
+[07-Oct-2013 01:21:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/single.php on line 101
+[07-Oct-2013 01:21:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/single.php on line 105
+[07-Oct-2013 01:27:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 55
+[07-Oct-2013 01:27:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 63
+[07-Oct-2013 01:27:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 71
+[07-Oct-2013 01:27:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 76
+[07-Oct-2013 01:27:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 83
+[07-Oct-2013 01:27:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 93
+[07-Oct-2013 01:27:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 101
+[07-Oct-2013 01:27:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 105
+[07-Oct-2013 01:32:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 55
+[07-Oct-2013 01:32:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 63
+[07-Oct-2013 01:32:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 71
+[07-Oct-2013 01:32:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 76
+[07-Oct-2013 01:32:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 83
+[07-Oct-2013 01:32:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 93
+[07-Oct-2013 01:32:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 101
+[07-Oct-2013 01:32:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 105
+[07-Oct-2013 01:32:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 55
+[07-Oct-2013 01:32:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 63
+[07-Oct-2013 01:32:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 71
+[07-Oct-2013 01:32:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 76
+[07-Oct-2013 01:32:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 83
+[07-Oct-2013 01:32:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 93
+[07-Oct-2013 01:32:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 101
+[07-Oct-2013 01:32:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-project.php on line 105
+[07-Oct-2013 05:07:49 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32 bytes) in /home/atomport/public_html/dev/brightworks/wp-includes/cache.php on line 113
+[07-Oct-2013 05:18:38 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/atomport/public_html/dev/brightworks/wp-content/plugins/acf-repeater/repeater.php on line 894
+[07-Oct-2013 18:40:30 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/atomport/public_html/dev/brightworks/wp-content/plugins/acf-repeater/repeater.php on line 894
+[07-Oct-2013 18:40:39 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/atomport/public_html/dev/brightworks/wp-content/plugins/acf-repeater/repeater.php on line 894
+[07-Oct-2013 18:40:43 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/atomport/public_html/dev/brightworks/wp-content/plugins/acf-repeater/repeater.php on line 891
+[08-Oct-2013 00:36:31 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/atomport/public_html/dev/brightworks/wp-content/plugins/acf-repeater/repeater.php on line 905
+[08-Oct-2013 00:37:35 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/atomport/public_html/dev/brightworks/wp-content/plugins/acf-repeater/repeater.php on line 894
+[08-Oct-2013 00:37:46 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/atomport/public_html/dev/brightworks/wp-content/plugins/acf-repeater/repeater.php on line 891
+[22-Oct-2013 05:38:18 UTC] PHP Fatal error:  Call to undefined function the_header() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-people.php on line 7
+[22-Oct-2013 05:48:53 UTC] PHP Fatal error:  Call to undefined function the_header() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-expertise.php on line 6
+[22-Oct-2013 07:54:25 UTC] PHP Fatal error:  Call to undefined function get_title() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-profile.php on line 75
+[22-Oct-2013 08:07:33 UTC] PHP Fatal error:  Call to undefined function get_the_permalink() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-profile.php on line 81
+[28-Oct-2013 00:42:13 UTC] PHP Fatal error:  Call to undefined function get_title() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/page-contact.php on line 35
+[28-Oct-2013 01:18:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/header.php on line 237
+[01-Nov-2013 19:42:05 UTC] PHP Warning:  version_compare() expects parameter 2 to be string, object given in /home/atomport/public_html/dev/brightworks/wp-admin/includes/class-wp-upgrader.php on line 2138

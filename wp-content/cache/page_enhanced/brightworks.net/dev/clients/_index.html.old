@@ -1,0 +1,2100 @@
+<!DOCTYPE HTML>
+<html><head>
+	<!-- <title>BrightWorks</title> -->
+	<title>Brightworks Sustainability</title>
+
+<script src="//use.typekit.net/ofi2hjp.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+
+	<meta name="viewport" content="width=device-width, minimumscale=1.0, maximum-scale=1.0" />
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700|Crete+Round">
+	<link rel="stylesheet" type="text/css" href="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/themes/brightworks/css/style.css?ver=5904">
+	<link rel="stylesheet" type="text/css" href="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/themes/brightworks/css/responsive.css">
+	<script src="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/themes/brightworks/js/jquery-1.10.2.min.js"></script>
+
+	<script src="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/themes/brightworks/js/jquery.masonry.js"></script>
+
+
+    
+
+     <script>
+	    $(function(){
+			$(".profile-box").hover(function() { $(this).find(".profile-box-highlight").css("display", "block"); $(this).find(".peopleText").css("display", "block");}, function() { $(".profile-box-highlight").css("display", "none"); $(this).find(".peopleText").css("display", "none");}); 
+
+$(".noImagePresent").hover(function() { $(this).find(".profile-box-highlight").css("display", "block"); $(this).find(".peopleText").css("color", "#fff");}, function() { $(".profile-box-highlight").css("display", "none"); $(this).find(".peopleText").css({"color": "#008FB4","display": "block"});}); 
+
+
+			//$(".profile-box").click(function() {
+				//window.location.href = '/profile?person='+$(this).attr("id");
+			//});
+	    });
+	</script>
+    
+
+<script src="http://www.brightworks.net/dev/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider-min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="http://www.brightworks.net/dev/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css">
+
+
+
+
+    
+        <script type="text/javascript">
+    jQuery(document).ready(function($) {
+      $("#masonry").masonry();
+    });
+    </script>
+                            
+    
+    
+    
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#008fb4">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51732446-17', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+<body>
+	    <div id="contentContainer"></div>
+		<div id="header">
+			<div id="inner-header">
+				<div id="logo"><a href="http://brightworks.net/dev"><img src="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/10/Brightworks_Logo_500px.png" width="250px" /></a></div>
+
+
+
+				<div id="navigation">
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-7005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7005"><a href="http://brightworks.net/dev/services/">Services</a></li>
+<li id="menu-item-148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="http://brightworks.net/dev/projects/">Projects</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-13 current_page_item menu-item-23"><a href="http://brightworks.net/dev/clients/">Clients</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://brightworks.net/dev/people/">People</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://brightworks.net/dev/contact/">Contact</a></li>
+</ul></div>				</div>
+			</div>
+		</div>		<div id="content-area">
+			<!--<div style="margin:0 auto;width:1022px;position:relative;padding: 25px 0 45px;">
+				<h3 class="open-sans" style="margin:0 0 0 0;padding:0;color:#676767;font-size:36px;line-height:42px;font-weight: normal;"></h3> 
+			</div>-->
+			<div style="margin:0 auto;width:1022px;position:relative;padding:30px 0;">
+													    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Arts, Entertainment, &#038; Media</h2><p class="customH"><span class="clientList">Autry National Center<br /></span><span class="clientList">Burchfield Penney Art Center<br /></span><span class="clientList">First Look Media<br /></span><span class="clientList">Fox Studios<br /></span><span class="clientList">Paramount Pictures<br /></span><span class="clientList">Warner Brothers</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=arts-entertainment-media&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Paramount-Pictures-Post-Production-Lot-Los-Angeles-California-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Paramount Pictures</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Post Production Village</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/07/Brightworks-Sustainability-Burchfield-Penney-Art-Center-Gwathmey-Siegel-Buffalo-New-York-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Buffalo State College</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Burchfield Penney Art Center</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Autry-National-Center-Museum-Collection-Storage-Los-Angeles-California-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Autry National Center</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Collections Storage Facility</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Automotive</h2><p class="customH"><span class="clientList">American Honda<br /></span><span class="clientList">BMW Motors<br /></span><span class="clientList">Tesla<br /></span><span class="clientList">Toyota of Bend<br /></span><span class="clientList">Toyota of Beaverton</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=automotive&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-BMW-SGL-Carbon-Fiber-Manufacturing-Moses-Lake-Washington-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">BMW Motors (with SGL Carbon)</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Automotive Carbon Fiber Manufacturing Facility (Building 1)</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-BMW-SGL-Carbon-Fiber-Manufacturing-Moses-Lake-Washington-LEED-2.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">BMW Motors (with SGL Carbon)</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Automotive Carbon Fiber Manufacturing Facility (Building 2)</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Kendall-Toyota-Sales-Service-Dealership-Center-Eugene-Oregon-LEED-Platinum.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Kendall Toyota of Eugene</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">New Sales and Service Center</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Aviation</h2><p class="customH"><span class="clientList">Boeing<br /></span><span class="clientList">El Paso International Airport<br /></span><span class="clientList">Hawaiian Airlines<br /></span><span class="clientList">Los Angeles International Airport<br /></span><span class="clientList">San Francisco International Airport<br /></span><span class="clientList">Seattle-Tacoma International Airport</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=aviation&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/07/Brightworks-Sustainability-Boeing-Paine-Customer-Delivery-Center-Seattle-Washington-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Boeing</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Boeing Field Customer Delivery Center</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/07/Brightworks-Sustainability-Boeing-Everett-Field-Customer-Delivery-Center-Washington-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Boeing</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Everett Customer Delivery Center</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Hawaiian-Airlines-Airport-Airplane-Aviation-Maintenance-Honolulu-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Hawaiian Airlines</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Maintenance Facility</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Banking &#038; Financial Services</h2><p class="customH"><span class="clientList">AAA<br /></span><span class="clientList">Bancolombia<br /></span><span class="clientList">Fidelity<br /></span><span class="clientList">USAA<br /></span><span class="clientList">Visa<br /></span><span class="clientList">Wells Fargo</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=banking-financial-services&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/07/Brightworks-Sustainability-Bancolombia-Corporate-Headquarters-Medillin-Colombia-South-America-LEED-2.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Bancolombia</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Corporate Headquarters</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-Fidelity-Energy-Strategy-Nebraska-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Fidelity</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Nebraska Data Center LEED Energy Credit Strategy</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Visa-Corporate-Headquarters-Foster-City-California-LEED-EBOM.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Visa</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Corporate Headquarters</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Biotechnology &#038; Life Sciences</h2><p class="customH"><span class="clientList">Agensys<br /></span><span class="clientList">Alexandria Real Estate<br /></span><span class="clientList">BioMed Realty Trust<br /></span><span class="clientList">Oregon Health &amp; Science University<br /></span><span class="clientList">Stanford Real Estate</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=biotechnology-life-sciences&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-Agensys-Headquarters-Santa-Monica-LEED-1.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Agensys</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Santa Monica Headquarters</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/09/Brightworks-Sustainability-Alexandria-Rel-Estate-400-Dexter-South-Lake-Union-Seatte-Washington-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Alexandria Real Estate</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">South Lake Union Life Sciences Building (400 Dexter)</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-Pacific-Northwest-National-Lab-PNNL-BCSF-Biological-Computational-Sciences-LEED-1.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Pacific Northwest National Laboratory (PNNL)</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Biological Sciences Facility</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Construction</h2><p class="customH"><span class="clientList">Abbott Construction<br /></span><span class="clientList">Balfour Beatty Construction<br /></span><span class="clientList">Devcon<br /></span><span class="clientList">Sierra Pacific Constructors</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=construction&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-Sierra-Pacific-Constructors-Offices-California-LEED-Platinum.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Sierra Pacific Constructors</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">New LEED Platinum Offices</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-Essex-Property-Trust-One-South-Market-Apartments-San-Jose-California-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Essex Property Trust</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">1 South Market Apartments LEED Contractor Services</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+		
+		
+		<div class="projectHoverImg profile-box noImagePresent" style="width:195px;height:195px;position:relative;float:left;margin-left:30px;background-color:rgba(191, 204, 215, 0.4);">
+        
+        <div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+        
+
+
+
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(0, 143, 180); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: block;">Skanska</h5>
+							<h6 class="peopleText" style="color: rgb(0, 143, 180); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display:block; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">LEED v4 for Contractors</h6>
+							
+						</div>
+                        
+                        
+</div>
+
+
+
+
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Consumer Goods</h2><p class="customH"><span class="clientList">Clorox<br /></span><span class="clientList">Costco<br /></span><span class="clientList">Crate &amp; Barrel<br /></span><span class="clientList">Nu Skin<br /></span><span class="clientList">PetSmart<br /></span><span class="clientList">Yanbal Cosmetics</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=consumer-goods&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Crate-and-Barrel-CB2-Santa-Monica-Place-California-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Crate & Barrel</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">CB2 Store at Santa Monica Place</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Yanbal-Distribution-Center-Colombia-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Yanbal Cosmetics</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Distribution Center</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Energy</h2><p class="customH"><span class="clientList">BP<br /></span><span class="clientList">Chevron<br /></span><span class="clientList">Northwest Energy Efficiency Alliance (NEEA)<br /></span><span class="clientList">Portland General Electric<br /></span><span class="clientList">Southern California Edison</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=energy&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-US-DOE-PNNL-Pacific-Northwest-National-Lab-Campus-Sustainability-Richland-Washington-LEED-EB-EBOM.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">U.S. Department of Energy Hanford Nuclear Site</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Guiding Principles for High Performance Sustainable Buildings Feasibility Assessment</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-UniSource-Energy-Headquarters-Tucson-Arizona-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">UniSource Energy Services</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">New Corporate Headquarters</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+		
+		
+		<div class="projectHoverImg profile-box noImagePresent" style="width:195px;height:195px;position:relative;float:left;margin-left:30px;background-color:rgba(191, 204, 215, 0.4);">
+        
+        <div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+        
+
+
+
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(0, 143, 180); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: block;">Portland General Electric (PGE)</h5>
+							<h6 class="peopleText" style="color: rgb(0, 143, 180); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display:block; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">World Trade Center</h6>
+							
+						</div>
+                        
+                        
+</div>
+
+
+
+
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Food Processing &#038; Grocery</h2><p class="customH"><span class="clientList">Dragonberry Produce<br /></span><span class="clientList">Dreisbach<br /></span><span class="clientList">Town &amp; Country Markets</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=food-processing-grocery&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-Town-Country-Market-Bainbridge-Renovation-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Town & Country Markets</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Bainbridge Island Store</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+		
+		
+		<div class="projectHoverImg profile-box noImagePresent" style="width:195px;height:195px;position:relative;float:left;margin-left:30px;background-color:rgba(191, 204, 215, 0.4);">
+        
+        <div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+        
+
+
+
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(0, 143, 180); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: block;">Department of General Services, State of California</h5>
+							<h6 class="peopleText" style="color: rgb(0, 143, 180); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display:block; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Porterville Development Center New Main Kitchen</h6>
+							
+						</div>
+                        
+                        
+</div>
+
+
+
+
+		
+		
+		<div class="projectHoverImg profile-box noImagePresent" style="width:195px;height:195px;position:relative;float:left;margin-left:30px;background-color:rgba(191, 204, 215, 0.4);">
+        
+        <div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+        
+
+
+
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(0, 143, 180); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: block;">Northwest Energy Efficiency Alliance (NEEA)</h5>
+							<h6 class="peopleText" style="color: rgb(0, 143, 180); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display:block; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Commercial Dairy Sustainability Study</h6>
+							
+						</div>
+                        
+                        
+</div>
+
+
+
+
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Government (Federal)</h2><p class="customH"><span class="clientList">Federal Reserve Bank of San Francisco<br /></span><span class="clientList">NOAA (National Oceanic and Atmospheric Administration)<br /></span><span class="clientList">U.S. Department of Energy (DOE)<br /></span><span class="clientList">U.S. Department of Veterans Affairs (VA)<br /></span><span class="clientList">U.S. General Services Administration (GSA)</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=government&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-NOAA-Pacific-Regional-Center-Ford-Island-Pearl-Harbor-Hawaii-LEED-5.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">NOAA (National Oceanic and Atmospheric Administration)</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Pacific Regional Center</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-US-GSA-Peace-Arch-Border-Crossing-Blaine-Washington-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">U.S. General Services Administration (GSA) Region 10 (Northwest/Arctic)</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Peace Arch U.S.-Canada Border Crossing</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-US-GSA-General-Services-Wayne-Morse-Courthouse-Eugene-Oregon-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">U.S. General Services Administration (GSA) Region 10 (Northwest/Arctic)</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Wayne L. Morse U.S. Courthouse</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Government (Non-Federal)</h2><p class="customH"><span class="clientList">California Department of General Services<br /></span><span class="clientList">City of Portland<br /></span><span class="clientList">City of Santa Monica<br /></span><span class="clientList">City of Seattle<br /></span><span class="clientList">County of Los Angeles</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=government&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-City-Seattle-West-Fire-Station-32-West-Washington-LEED-Platinum.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">City of Seattle</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Fire Station 32</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-City-Beaverton-GRI-Global-Reporting-Initiative-Content-Index-Beaverton-Oregon.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">City of Beaverton</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">GRI Reporting Program</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+		
+		
+		<div class="projectHoverImg profile-box noImagePresent" style="width:195px;height:195px;position:relative;float:left;margin-left:30px;background-color:rgba(191, 204, 215, 0.4);">
+        
+        <div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+        
+
+
+
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(0, 143, 180); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: block;">City of Santa Monica</h5>
+							<h6 class="peopleText" style="color: rgb(0, 143, 180); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display:block; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Pico Branch Library</h6>
+							
+						</div>
+                        
+                        
+</div>
+
+
+
+
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Healthcare &#038; Social Services</h2><p class="customH"><span class="clientList">Cleveland Clinic<br /></span><span class="clientList">Community Health Center of Snohomish County<br /></span><span class="clientList">Kaiser Permanente<br /></span><span class="clientList">Olive-View UCLA Medical Center<br /></span><span class="clientList">Sutter Health</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=healthcare-social-services&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-HLMS-Case-Western-New-School-Dental-Medicine-Cleveland-Ohio-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Case Western Reserve University</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">School of Dental Medicine</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+		
+		
+		<div class="projectHoverImg profile-box noImagePresent" style="width:195px;height:195px;position:relative;float:left;margin-left:30px;background-color:rgba(191, 204, 215, 0.4);">
+        
+        <div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+        
+
+
+
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(0, 143, 180); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: block;">Olive-View UCLA Medical Center</h5>
+							<h6 class="peopleText" style="color: rgb(0, 143, 180); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display:block; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">2035 Campus Master Plan</h6>
+							
+						</div>
+                        
+                        
+</div>
+
+
+
+
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-USC-University-Southern-California-Engemann-Student-Health-Center-Los-Angeles-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">University of Southern California (USC)</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Engemann Student Health Center</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Higher Education (Private)</h2><p class="customH"><span class="clientList">Caltech<br /></span><span class="clientList">California Lutheran University<br /></span><span class="clientList">Case Western Reserve University<br /></span><span class="clientList">Loyola Marymount University (LMU)<br /></span><span class="clientList">Pacific University<br /></span><span class="clientList">Stanford University<br /></span><span class="clientList">The Evergreen State College<br /></span><span class="clientList">University of Southern California (USC)<br /></span><span class="clientList">Willamette University</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=higher-education&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-Caltech-Thomas-Lab-Renovation-Pasadena-California-LEED-v4.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Caltech</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Thomas Lab Renovation</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-USC-University-Southern-California-Tutor-Campus-Student-Center-Los-Angeles-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">University of Southern California (USC)</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Ronald Tutor Campus Center</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Pacific-University-Gilbert-Student-Housing-Forest-Grove-Oregon-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Pacific University</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Gilbert Hall Student Housing</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Higher Education (Public)</h2><p class="customH"><span class="clientList">Cal Poly Pomona<br /></span><span class="clientList">Cal Poly SLO<br /></span><span class="clientList">California State University Channel Islands (CSUCI)<br /></span><span class="clientList">California State University Long Beach<br /></span><span class="clientList">California State University San Marcos (CSUSM)<br /></span><span class="clientList">California State University, Chico (Chico State)<br /></span><span class="clientList">California State University, Northridge<br /></span><span class="clientList">California State University, Sacramento (Sac State)<br /></span><span class="clientList">Oregon Health &amp; Science University (OHSU)<br /></span><span class="clientList">Portland State University (PSU)<br /></span><span class="clientList">San Jose State University<br /></span><span class="clientList">State University of New York at Potsdam (SUNY Potsdam)<br /></span><span class="clientList">University of Alaska, Anchorage<br /></span><span class="clientList">University of California, Berkeley (UC Berkeley)<br /></span><span class="clientList">University of California, Davis (UC Davis)<br /></span><span class="clientList">University of California, Los Angeles (UCLA)<br /></span><span class="clientList">University of California, Riverside<br /></span><span class="clientList">University of California, Santa Barbara (UCSB)<br /></span><span class="clientList">University of Hawaii<br /></span><span class="clientList">University of Washington<br /></span><span class="clientList">Washington State University (WSU)<br /></span><span class="clientList">Western Oregon University<br /></span><span class="clientList">Western Washington University (WWU)</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=higher-education&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-Sac-State-CSU-Sacramento-Master-Plan-Net-Zero.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">California State University, Sacramento (Sac State)</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Pathway to Net Zero Baseline and Gap Analysis</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-UCLA-University-Weyburn-Terrace-Student-Housing-Exterior-Los-Angeles-California-LEED-Gold.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">University of California, Los Angeles (UCLA)</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Weyburn Terrace Graduate Student Housing</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-Portland-State-University-PSU-Lincoln-Hall-Historic-Renovation-Oregon-LEED-Platinum.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Portland State University (PSU)</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Lincoln Hall Renovation</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Hospitality</h2><p class="customH"><span class="clientList">Hyatt<br /></span><span class="clientList">Marriott<br /></span><span class="clientList">Sage Hospitality<br /></span><span class="clientList">Sun Valley Company</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=hospitality&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Marriott-Courtyard-Hotel-Portland-Oregon-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Marriott</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">New Marriott Courtyard Hotel</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Hyatt-Andaz-Wailea-Maui-Resort-Hotel-Hawaii-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Hyatt</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Andaz Maui at Wailea Resort & Villas</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+		
+		
+		<div class="projectHoverImg profile-box noImagePresent" style="width:195px;height:195px;position:relative;float:left;margin-left:30px;background-color:rgba(191, 204, 215, 0.4);">
+        
+        <div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+        
+
+
+
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(0, 143, 180); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: block;">Sun Valley Company</h5>
+							<h6 class="peopleText" style="color: rgb(0, 143, 180); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display:block; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Sun Valley Lodge and Sun Valley Inn Sustainability Assessment</h6>
+							
+						</div>
+                        
+                        
+</div>
+
+
+
+
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">K-12 Education</h2><p class="customH"><span class="clientList">Beaverton School District<br /></span><span class="clientList">Hillsboro School District<br /></span><span class="clientList">Portland Public Schools<br /></span><span class="clientList">Saint Francis High School<br /></span><span class="clientList">San Francisco Unified School District<br /></span><span class="clientList">Victory Academy for Autistic Children</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=k12-education&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-Victory-Academy-Living-Building-Challenge-LBC-Portland-Oregon.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Victory Academy</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">New Living Building Challenge K-12 School</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-McMinnville-School-District-Sue-Buel-Elementary-Oregon-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">McMinnville School District</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Sue Buel Elementary School</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Hillsboro-School-District-Rosedale-Elementary-Oregon-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Hillsboro School District</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Rosedale Elementary School</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Manufacturing</h2><p class="customH"><span class="clientList">Boeing<br /></span><span class="clientList">Intel<br /></span><span class="clientList">Intuitive Surgical<br /></span><span class="clientList">Nu Skin<br /></span><span class="clientList">Siemens<br /></span><span class="clientList">Transcontinental<br /></span><span class="clientList">Yanbal Cosmetics</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=manufacturing&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-BMW-SGL-Carbon-Fiber-Manufacturing-Moses-Lake-Washington-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">BMW Motors (with SGL Carbon)</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Automotive Carbon Fiber Manufacturing Facility (Building 1)</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-BMW-SGL-Carbon-Fiber-Manufacturing-Moses-Lake-Washington-LEED-2.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">BMW Motors (with SGL Carbon)</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Automotive Carbon Fiber Manufacturing Facility (Building 2)</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Transcontinental-Printing-Facility-Northern-Fremont-California-LEED-2.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">TC Transcontinental</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Northern California Printing Facility</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Ports</h2><p class="customH"><span class="clientList">Port of Long Beach<br /></span><span class="clientList">Port of Portland<br /></span><span class="clientList">Port of San Francisco<br /></span><span class="clientList">Port of Seattle<br /></span><span class="clientList">Port of Skamania County</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=ports&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Port-San-Francisco-Cruise-Ship-Terminal-Americas-Cup-Portland-Oregon-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Port of San Francisco</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Pier 27 James R. Herman Cruise Ship Terminal</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-NOAA-Pacific-Marine-Operations-Center-Newport-Oregon-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">NOAA (National Oceanic and Atmospheric Administration)</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Pacific Marine Operations Center</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Real Estate Development</h2><p class="customH"><span class="clientList">Alexandria Real Estate<br /></span><span class="clientList">BRE Properties<br /></span><span class="clientList">Essex Property Trust<br /></span><span class="clientList">Gerding Edlen Development<br /></span><span class="clientList">Harsch Investment Properties<br /></span><span class="clientList">Kemper<br /></span><span class="clientList">Kennedy Wilson<br /></span><span class="clientList">LaSalle Investment Management<br /></span><span class="clientList">Mack Urban<br /></span><span class="clientList">Opus Northwest<br /></span><span class="clientList">Related<br /></span><span class="clientList">Shiels Obletz Johnsen (SOJ)<br /></span><span class="clientList">Shorenstein<br /></span><span class="clientList">Sobrato<br /></span><span class="clientList">Trammell Crow Company<br /></span><span class="clientList">Vulcan</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=real-estate-development&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/09/Brightworks-Sustainability-Related-Hudson-Yards-30th-10th-Condominiums-New-York-LEED-3.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Related</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Hudson Yards 30th and 10th Condominiums</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/09/Brightworks-Sustainability-Alexandria-Rel-Estate-400-Dexter-South-Lake-Union-Seatte-Washington-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Alexandria Real Estate</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">South Lake Union Life Sciences Building (400 Dexter)</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-Mack-Urban-DTLA-Apartments-Downtown-Los-Angeles-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Mack Urban</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">DTLA South Park Site 1</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Real Estate Management, Operations &#038; Maintenance</h2><p class="customH"><span class="clientList">CBRE<br /></span><span class="clientList">Cushman &amp; Wakefield<br /></span><span class="clientList">Kennedy Wilson<br /></span><span class="clientList">Maguire Properties<br /></span><span class="clientList">Minshall Stewart Properties<br /></span><span class="clientList">SKB (ScanlanKemperBard Companies)<br /></span><span class="clientList">Urban Renaissance Group</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=real-estate-management-operations-maintenance&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Cushman-Wakefield-425-Market-San-Francisco-LEED-2.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Cushman & Wakefield</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">425 Market Street Recertification</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-HLMS-Minshall-Stewart-Properties-Erieview-Tower-Cleveland-Ohio-LEED-EBOM.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Minshall Stewart Properties</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Erieview Tower</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Visa-Corporate-Headquarters-Foster-City-California-LEED-EBOM.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Visa</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Corporate Headquarters</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Research</h2><p class="customH"><span class="clientList">Information Technology Industry Development Agency of Egypt<br /></span><span class="clientList">NASA Jet Propulsion Lab (JPL)<br /></span><span class="clientList">NOAA (National Oceanic and Atmospheric Administration)<br /></span><span class="clientList">Pacific Northwest National Laboratory (PNNL)<br /></span><span class="clientList">Stanford University</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=research&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-NASA-Jet-Propulsion-Lab-Net-Zero-Energy-13514-SSPP-Planning-Pasadena-California-2.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">NASA Jet Propulsion Lab (JPL)</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Oak Grove Campus 2030 Master Plan</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-NOAA-Pacific-Regional-Center-Ford-Island-Pearl-Harbor-Hawaii-LEED-5.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">NOAA (National Oceanic and Atmospheric Administration)</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Pacific Regional Center</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-US-DOE-Stanford-Linear-Accelerator-Center-SIMES-Lab-Palo-Alto-California-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Stanford University</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">SLAC National Accelerator Laboratory SIMES Lab Renovation</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Retail</h2><p class="customH"><span class="clientList">Costco<br /></span><span class="clientList">Crate &amp; Barrel<br /></span><span class="clientList">Dollar Shave Club<br /></span><span class="clientList">Mario Batali<br /></span><span class="clientList">Town &amp; Country Markets<br /></span><span class="clientList">Williams-Sonoma<br /></span><span class="clientList">Westfield</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=retail&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Crate-and-Barrel-CB2-Santa-Monica-Place-California-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Crate & Barrel</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">CB2 Store at Santa Monica Place</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Mario-Batali-Pizzeria-Mozza-Newport-Beach-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Mario Batali</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Pizzeria Mozza Newport Beach</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Kendall-Toyota-Sales-Service-Dealership-Center-Eugene-Oregon-LEED-Platinum.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Kendall Toyota of Eugene</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">New Sales and Service Center</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Sports, Recreation &#038; Fitness</h2><p class="customH"><span class="clientList">Portland Parks &amp; Recreation<br /></span><span class="clientList">San Francisco 49ers<br /></span><span class="clientList">Seattle Storm<br /></span><span class="clientList">Stafford Woods Fitness Center<br /></span><span class="clientList">University of Alaska, Anchorage<br /></span><span class="clientList">University of Hawaii</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=sports-recreation-fitness&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/10/Brightworks-Sustainability-San-Francisco-49ers-New-Stadium-Santa-Clara-Field-Game-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">San Francisco 49ers</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">New Levi's Stadium</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-University-Alaska-UAA-Sports-Arena-Anchorage-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">University of Alaska, Anchorage</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Sports Arena</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-City-Portland-Parks-Recreation-East-Community-Aquatics-Pool-Oregon-LEED-Platinum.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Portland Parks & Recreation</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">East Portland Community Aquatics Center</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Technology</h2><p class="customH"><span class="clientList">Cisco<br /></span><span class="clientList">Elemental Technologies<br /></span><span class="clientList">Equinix<br /></span><span class="clientList">Facebook<br /></span><span class="clientList">Google<br /></span><span class="clientList">HP<br /></span><span class="clientList">Intel<br /></span><span class="clientList">Jabil Circuit<br /></span><span class="clientList">Juniper Networks<br /></span><span class="clientList">Meraki<br /></span><span class="clientList">Motorola Mobility<br /></span><span class="clientList">Synopsys<br /></span><span class="clientList">VMWare<br /></span><span class="clientList">Yahoo!</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=technology&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Facebook-Headquarters-Frank-Gehry-Mark-Zuckerberg-Menlo-Park-California-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Facebook</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Corporate Headquarters</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/08/Brightworks-Sustainability-Equinix-Data-Center-Clise-Properties-Westin-Seattle-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Equinix</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Seattle Data Center in the Westin Building</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-HP-Hewlett-Packard-Executive-Briefing-Center-Palo-Alto-California-LEED-Platinum.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">HP</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Executive Briefing Center</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Utilities</h2><p class="customH"><span class="clientList">California Water Services Company<br /></span><span class="clientList">City of Anaheim<br /></span><span class="clientList">City of Palo Alto Utility<br /></span><span class="clientList">Clean Water Services<br /></span><span class="clientList">Portland General Electric<br /></span><span class="clientList">Southern California Edison<br /></span><span class="clientList">Southern California Gas Company<br /></span><span class="clientList">UniSource Energy</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=utilities&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+									    
+    
+    	<div class="clients" style="position:relative; overflow:hidden;">
+        
+        	<div style="padding:30px 0 30px 30px; display:inline-block;">
+
+       			<div style="float:left; width:285px;">
+
+
+
+<h2 class="customH heading">Warehousing &#038; Distribution</h2><p class="customH"><span class="clientList">American Honda<br /></span><span class="clientList">Corporate Express<br /></span><span class="clientList">Old Dominion Freight Line<br /></span><span class="clientList">Panattoni Development</span></p>
+  
+
+                        </div>
+
+			    		<div style="width:675px; float:right;">
+                        <!-- three projects go here-->
+                        
+                        <p class="align-right" style="margin:0;float:right;">VIEW ALL <a href="http://brightworks.net/dev/projects/?projects=warehousing-distribution&type=industry-sector-filter">PROJECTS  OF THIS TYPE</a></p>
+                        
+                        
+<div class="threeRelatedProjects" style="margin-left:30px;margin-bottom: 20px;font-size: 16px;font-weight: bold;">RELATED PROJECTS</div><div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Panattoni-LaSalle-Investment-West-Corona-Corporate-Distribution-Warehouse-Zumiez-California-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Panattoni Development</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Zumiez Corporate Warehouse</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Corporate-Express-Distribution-Center-Pembroke-Florida-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Corporate Express</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Pembroke Park Distribution Center</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+<div class="projectHoverImg profile-box" style="width:195px;height:195px;position:relative;float:left;background:url(http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/06/Brightworks-Sustainability-Yanbal-Distribution-Center-Colombia-LEED.jpg) 50% 50% no-repeat;overflow:hidden; background-size:cover; margin-left:30px;">
+					<div style="opacity: 0.8; position: absolute; bottom: 0px; height: 100%; width: 195px; display: none; background-color: rgb(37, 82, 128);" class="profile-box-highlight"></div>
+						<div style="position:absolute;bottom:0;height:80px;top:34px;width:195px;">
+							<h5 class="peopleText" style="font-weight: 600; color: rgb(255, 255, 255); margin: 12px 20px 0px; font-size: 14px; text-transform: capitalize; display: none;">Yanbal Cosmetics</h5>
+							<h6 class="peopleText" style="color: rgb(255, 255, 255); margin: 0px 0px 0px 20px; font-size: 13px; letter-spacing: 0.5px; min-height: 80px; padding-right: 10px; display: none; text-transform: capitalize; font-weight: 200; text-overflow: ellipsis;">Distribution Center</h6>
+							
+						</div>
+                        
+                        
+
+				</div>
+                
+                
+                        
+
+                        
+                        </div><!-- end three project layout-->
+                        
+                 </div>
+                        
+    		</div>
+
+
+
+                    
+                    
+                    
+                    
+								<br style="clear:both;"/>
+			</div>
+		</div>
+		<br style="clear:both;"/>
+		<div id="footer">
+
+<div id="footer-inner-wrapper">
+				<ul	id="city-menu">
+
+                	
+					<li><a href="/contact/#portland">Portland</a></li>
+	
+					<li><a href="/contact/#oakland">Oakland</a></li>
+	
+					<li><a href="/contact/#seattle">Seattle</a></li>
+	
+					<li><a href="/contact/#los-angeles">Los Angeles</a></li>
+	
+					<li><a href="/contact/#new-york">New York</a></li>
+				</ul>
+
+
+
+<div id="footer-inner-wrapper">
+				
+				<div id="copyright-block">Copyright &copy; 2001-2015 Brightworks Sustainability Advisors. All rights reserved.</div>
+				
+			</div>
+
+
+			
+			<br style="clear:both;"/>
+		</div>
+	</div>
+</body>
+</html>
+
+<script>
+
+jQuery(document).ready(function($) {
+
+	$(".clients").each(function() {
+		var clientsHeight = $(this).outerHeight();
+		$(this).find(".clientImg").css({"height":clientsHeight});
+	});
+
+});
+
+</script>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Content Delivery Network via d5v55k5cawcao.cloudfront.net
+
+ Served from: brightworks.net @ 2015-06-30 10:45:30 by W3 Total Cache -->

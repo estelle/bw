@@ -1,0 +1,12 @@
+[20-May-2015 01:41:51 UTC] PHP Notice:  Use of undefined constant contact - assumed 'contact' in /var/www/vhosts/brightworks.net/httpdocs/dev/wp-content/themes/brightworks/header.php on line 40
+[20-May-2015 01:41:51 UTC] PHP Notice:  Use of undefined constant services - assumed 'services' in /var/www/vhosts/brightworks.net/httpdocs/dev/wp-content/themes/brightworks/header.php on line 40
+[20-May-2015 01:41:51 UTC] PHP Notice:  Use of undefined constant clients - assumed 'clients' in /var/www/vhosts/brightworks.net/httpdocs/dev/wp-content/themes/brightworks/header.php on line 40
+[20-May-2015 19:27:01 UTC] PHP Notice:  Use of undefined constant contact - assumed 'contact' in /var/www/vhosts/brightworks.net/httpdocs/dev/wp-content/themes/brightworks/header.php on line 40
+[20-May-2015 19:27:01 UTC] PHP Notice:  Use of undefined constant services - assumed 'services' in /var/www/vhosts/brightworks.net/httpdocs/dev/wp-content/themes/brightworks/header.php on line 40
+[20-May-2015 19:27:01 UTC] PHP Notice:  Use of undefined constant clients - assumed 'clients' in /var/www/vhosts/brightworks.net/httpdocs/dev/wp-content/themes/brightworks/header.php on line 40
+[20-May-2015 19:27:16 UTC] PHP Notice:  Use of undefined constant contact - assumed 'contact' in /var/www/vhosts/brightworks.net/httpdocs/dev/wp-content/themes/brightworks/header.php on line 40
+[20-May-2015 19:27:16 UTC] PHP Notice:  Use of undefined constant services - assumed 'services' in /var/www/vhosts/brightworks.net/httpdocs/dev/wp-content/themes/brightworks/header.php on line 40
+[20-May-2015 19:27:16 UTC] PHP Notice:  Use of undefined constant clients - assumed 'clients' in /var/www/vhosts/brightworks.net/httpdocs/dev/wp-content/themes/brightworks/header.php on line 40
+[20-May-2015 20:27:08 UTC] PHP Notice:  Use of undefined constant contact - assumed 'contact' in /var/www/vhosts/brightworks.net/httpdocs/dev/wp-content/themes/brightworks/header.php on line 40
+[20-May-2015 20:27:08 UTC] PHP Notice:  Use of undefined constant services - assumed 'services' in /var/www/vhosts/brightworks.net/httpdocs/dev/wp-content/themes/brightworks/header.php on line 40
+[20-May-2015 20:27:08 UTC] PHP Notice:  Use of undefined constant clients - assumed 'clients' in /var/www/vhosts/brightworks.net/httpdocs/dev/wp-content/themes/brightworks/header.php on line 40

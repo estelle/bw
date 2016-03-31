@@ -1,0 +1,275 @@
+0000.000 (0) Opened log file at time: Wed, 20 May 2015 21:46:54 +0000 on http://brightworks.net/dev
+0000.003 (0) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.10.1 WP: 4.2.2 PHP: 5.4.31 (Linux svr01.phorium.net 2.6.32-504.el6.x86_64 #1 SMP Wed Oct 15 04:27:16 UTC 2014 x86_64) MySQL: 5.5.33-cll-lve Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 128M (used: 28.2M | 28.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 992534.9 Mb
+0000.005 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB: 1 (schedule: daily)
+0000.009 (0) Requesting semaphore lock (fd)
+0000.010 (0) Set semaphore last lock (fd) time to 2015-05-20 21:46:54
+0000.011 (0) Semaphore lock (fd) complete
+0000.014 (0) Backup run: resumption=0, nonce=400fa0767fde, begun at=1432158414 (0s ago), job type=backup
+0000.015 (0) Scheduling a resumption (1) after 300 seconds (1432158714) in case this run gets aborted
+0000.024 (0) Checking if we have a zip executable available
+0000.026 (0) Creation of backups of directories: beginning
+0000.029 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0003.669 (0) Total entities for the zip file: 838 directories, 4218 files (0 skipped as non-modified), 53.8 Mb
+0003.683 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 Mb, 1 (1) files added so far); re-opening (prior size: 0 Kb)
+0003.794 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 100 files added (on-disk size: 162 Kb)
+0003.833 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 200 files added (on-disk size: 162 Kb)
+0003.876 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 300 files added (on-disk size: 162 Kb)
+0003.930 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 400 files added (on-disk size: 162 Kb)
+0003.983 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 500 files added (on-disk size: 162 Kb)
+0003.985 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.4 Mb, 4218 files batched, 501 (502) added so far); re-opening (prior size: 162 Kb)
+0004.622 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 600 files added (on-disk size: 2760 Kb)
+0004.678 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 700 files added (on-disk size: 2760 Kb)
+0004.734 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 800 files added (on-disk size: 2760 Kb)
+0004.789 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 900 files added (on-disk size: 2760 Kb)
+0004.845 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 1000 files added (on-disk size: 2760 Kb)
+0004.849 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.9 Mb, 4218 files batched, 501 (1003) added so far); re-opening (prior size: 2760 Kb)
+0005.131 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 1100 files added (on-disk size: 3412.6 Kb)
+0005.174 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 1200 files added (on-disk size: 3412.6 Kb)
+0005.215 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 1300 files added (on-disk size: 3412.6 Kb)
+0005.253 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 1400 files added (on-disk size: 3412.6 Kb)
+0005.258 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 Mb added on this batch (25 Mb, 4218 files batched, 408 (1411) added so far); re-opening (prior size: 3412.6 Kb)
+0010.027 (0) A useful amount of data was added after this amount of zip processing: 5.9 s (normalised: 5.9 s, rate: 4327.2 Kb/s)
+0010.028 (0) Performance is good - will increase the amount of data we attempt to batch (time=5.9193170070648, normalised_time=5.9160241333721, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=26586504)
+0010.080 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 1500 files added (on-disk size: 13438.1 Kb)
+0010.127 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 1600 files added (on-disk size: 13438.1 Kb)
+0010.174 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 1700 files added (on-disk size: 13438.1 Kb)
+0010.242 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 1800 files added (on-disk size: 13438.1 Kb)
+0010.310 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 1900 files added (on-disk size: 13438.1 Kb)
+0010.319 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.5 Mb, 4218 files batched, 501 (1912) added so far); re-opening (prior size: 13438.1 Kb)
+0010.806 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 2000 files added (on-disk size: 14969.2 Kb)
+0010.892 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 2100 files added (on-disk size: 14969.2 Kb)
+0010.974 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 2200 files added (on-disk size: 14969.2 Kb)
+0011.048 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 2300 files added (on-disk size: 14969.2 Kb)
+0011.125 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 2400 files added (on-disk size: 14969.2 Kb)
+0011.136 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.4 Mb, 4218 files batched, 501 (2413) added so far); re-opening (prior size: 14969.2 Kb)
+0011.577 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 2500 files added (on-disk size: 15839.4 Kb)
+0011.654 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 2600 files added (on-disk size: 15839.4 Kb)
+0011.737 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 2700 files added (on-disk size: 15839.4 Kb)
+0011.819 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 2800 files added (on-disk size: 15839.4 Kb)
+0011.898 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 2900 files added (on-disk size: 15839.4 Kb)
+0011.910 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.7 Mb, 4218 files batched, 501 (2914) added so far); re-opening (prior size: 15839.4 Kb)
+0012.435 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 3000 files added (on-disk size: 16410.7 Kb)
+0012.508 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 3100 files added (on-disk size: 16410.7 Kb)
+0012.586 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 3200 files added (on-disk size: 16410.7 Kb)
+0012.658 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 3300 files added (on-disk size: 16410.7 Kb)
+0012.722 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 3400 files added (on-disk size: 16410.7 Kb)
+0012.730 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4 Mb, 4218 files batched, 501 (3415) added so far); re-opening (prior size: 16410.7 Kb)
+0013.256 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 3500 files added (on-disk size: 17715.3 Kb)
+0013.319 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 3600 files added (on-disk size: 17715.3 Kb)
+0013.371 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 3700 files added (on-disk size: 17715.3 Kb)
+0013.431 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 3800 files added (on-disk size: 17715.3 Kb)
+0013.490 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 3900 files added (on-disk size: 17715.3 Kb)
+0013.500 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.3 Mb, 4218 files batched, 501 (3916) added so far); re-opening (prior size: 17715.3 Kb)
+0014.140 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 4000 files added (on-disk size: 18909 Kb)
+0014.199 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 4100 files added (on-disk size: 18909 Kb)
+0014.256 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip.tmp: 4200 files added (on-disk size: 18909 Kb)
+0014.966 (0) Created plugins zip (0) - 19966 Kb in 14.9 s (1336.9 Kb/s) (SHA1 checksum: d650abd21fe5c8c7daf8f13dc39f11188dd4c456)
+0014.968 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0015.129 (0) Total entities for the zip file: 38 directories, 311 files (0 skipped as non-modified), 6.4 Mb
+0015.165 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0015.204 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-themes.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0015.237 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-themes.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0015.786 (0) Created themes zip (0) - 5449.1 Kb in 0.8 s (6679.1 Kb/s) (SHA1 checksum: fb9a512238a79ba7e698628cf96947f3d945a0d5)
+0015.789 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0015.790 (0) Looking for candidates to back up in: /var/www/vhosts/brightworks.net/httpdocs/dev/wp-content/uploads
+0015.791 (0) finding files: master-slider: adding to list (1)
+0015.792 (0) finding files: ultimate_importer: adding to list (2)
+0015.792 (0) finding files: 2015: adding to list (3)
+0015.793 (0) finding files: 2014: adding to list (4)
+0015.794 (0) finding files: 2013: adding to list (5)
+0015.794 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0016.187 (0) Total entities for the zip file: 27 directories, 775 files (0 skipped as non-modified), 57.2 Mb
+0016.227 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0016.267 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-uploads.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0016.306 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-uploads.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0016.333 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25.4 Mb added on this batch (25.4 Mb, 775 files batched, 366 (366) added so far); re-opening (prior size: 0 Kb)
+0017.750 (0) A useful amount of data was added after this amount of zip processing: 2.6 s (normalised: 2.6 s, rate: 9830.8 Kb/s)
+0017.751 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.6420969963074, normalised_time=2.6410281283336, max_time=-1, data points known=0, old_max_bytes=26586504, new_max_bytes=60400350)
+0017.770 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-uploads.zip.tmp: 400 files added (on-disk size: 24594.1 Kb)
+0017.810 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-uploads.zip.tmp: 500 files added (on-disk size: 24594.1 Kb)
+0017.850 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-uploads.zip.tmp: 600 files added (on-disk size: 24594.1 Kb)
+0017.891 (0) Zip: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-uploads.zip.tmp: 700 files added (on-disk size: 24594.1 Kb)
+0020.242 (0) Created uploads zip (0) - 55442.1 Kb in 4.4 s (12474.1 Kb/s) (SHA1 checksum: 20fbe2056482ae651af12c8e509713cf65c1b969)
+0020.244 (0) Beginning backup of other directories found in the content directory (index: 0)
+0020.244 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups
+0020.245 (0) Looking for candidates to back up in: /var/www/vhosts/brightworks.net/httpdocs/dev/wp-content
+0020.246 (0) finding files: index.php: adding to list (1)
+0020.247 (0) finding files: themes: skipping: this is the themes directory
+0020.247 (0) finding files: uploads: skipping: this is the uploads directory
+0020.248 (0) finding files: cache: skipping: excluded by options
+0020.249 (0) finding files: ewww: adding to list (2)
+0020.249 (0) finding files: updraft: skipping: this is the updraft directory
+0020.250 (0) finding files: debug.log: adding to list (3)
+0020.250 (0) finding files: w3tc-config: adding to list (4)
+0020.251 (0) finding files: advanced-cache.php: adding to list (5)
+0020.252 (0) finding files: backupwordpress-f39f87980d-backups: skipping: excluded by options (glob)
+0020.252 (0) finding files: backupwordpress-f39f87980d-backups: skipping: excluded by options (glob)
+0020.253 (0) finding files: plugins: skipping: this is the plugins directory
+0020.253 (0) finding files: upgrade: skipping: excluded by options
+0020.265 (0) Total entities for the zip file: 2 directories, 13 files (0 skipped as non-modified), 3.1 Mb
+0021.342 (0) Created others zip (0) - 1517.5 Kb in 1.1 s (1398.5 Kb/s) (SHA1 checksum: dc31926a78ed99036c8c2103116fcd86b4c17641)
+0021.346 (0) Saving backup status to database (elements: 8)
+0021.347 (0) Beginning creation of database dump (WordPress DB)
+0021.353 (0) Table wp_options: Total expected rows (approximate): 321
+0021.391 (0) Table wp_options: Total rows added: 319 in 0.04 seconds
+0021.392 (0) Table wp_options: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_options.table.gz - 102.9 Kb)
+0021.396 (0) Table wp_users: Total expected rows (approximate): 3
+0021.398 (0) Table wp_users: Total rows added: 3 in 0.00 seconds
+0021.399 (0) Table wp_users: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_users.table.gz - 0.7 Kb)
+0021.402 (0) Table wp_usermeta: Total expected rows (approximate): 82
+0021.405 (0) Table wp_usermeta: Total rows added: 82 in 0.00 seconds
+0021.406 (0) Table wp_usermeta: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_usermeta.table.gz - 2.3 Kb)
+0021.409 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0021.410 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0021.411 (0) Table wp_commentmeta: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_commentmeta.table.gz - 0.3 Kb)
+0021.414 (0) Table wp_comments: Total expected rows (approximate): 0
+0021.416 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0021.417 (0) Table wp_comments: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_comments.table.gz - 0.5 Kb)
+0021.420 (0) Table wp_links: Total expected rows (approximate): 0
+0021.422 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0021.423 (0) Table wp_links: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_links.table.gz - 0.4 Kb)
+0021.425 (0) Table wp_postmeta: Total expected rows (approximate): 59257
+0022.714 (0) Table wp_postmeta: Total rows added: 59257 in 1.29 seconds
+0022.716 (0) Table wp_postmeta: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_postmeta.table.gz - 659.7 Kb)
+0022.719 (0) Table wp_posts: Total expected rows (approximate): 2065
+0022.969 (0) Table wp_posts: Total rows added: 2065 in 0.25 seconds
+0022.970 (0) Table wp_posts: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_posts.table.gz - 176.4 Kb)
+0022.974 (0) Table wp_term_relationships: Total expected rows (approximate): 3292
+0023.014 (0) Table wp_term_relationships: Total rows added: 3292 in 0.04 seconds
+0023.016 (0) Table wp_term_relationships: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_term_relationships.table.gz - 10.3 Kb)
+0023.019 (0) Table wp_term_taxonomy: Total expected rows (approximate): 70
+0023.022 (0) Table wp_term_taxonomy: Total rows added: 70 in 0.00 seconds
+0023.023 (0) Table wp_term_taxonomy: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_term_taxonomy.table.gz - 1 Kb)
+0023.026 (0) Table wp_terms: Total expected rows (approximate): 65
+0023.029 (0) Table wp_terms: Total rows added: 65 in 0.00 seconds
+0023.030 (0) Table wp_terms: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_terms.table.gz - 1.6 Kb)
+0023.034 (0) Table wp_ewwwio_images: Total expected rows (approximate): 865
+0023.059 (0) Table wp_ewwwio_images: Total rows added: 757 in 0.02 seconds
+0023.075 (0) Table wp_ewwwio_images: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_ewwwio_images.table.gz - 21.5 Kb)
+0023.079 (0) Table wp_huge_itslider_images: Total expected rows (approximate): 3
+0023.082 (0) Table wp_huge_itslider_images: Total rows added: 3 in 0.00 seconds
+0023.083 (0) Table wp_huge_itslider_images: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_huge_itslider_images.table.gz - 0.7 Kb)
+0023.086 (0) Table wp_huge_itslider_params: Total expected rows (approximate): 37
+0023.089 (0) Table wp_huge_itslider_params: Total rows added: 37 in 0.00 seconds
+0023.090 (0) Table wp_huge_itslider_params: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_huge_itslider_params.table.gz - 1 Kb)
+0023.093 (0) Table wp_huge_itslider_sliders: Total expected rows (approximate): 1
+0023.094 (0) Table wp_huge_itslider_sliders: Total rows added: 1 in 0.00 seconds
+0023.095 (0) Table wp_huge_itslider_sliders: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_huge_itslider_sliders.table.gz - 0.5 Kb)
+0023.098 (0) Table wp_masterslider_options: Total expected rows (approximate): 1
+0023.100 (0) Table wp_masterslider_options: Total rows added: 1 in 0.00 seconds
+0023.101 (0) Table wp_masterslider_options: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_masterslider_options.table.gz - 0.4 Kb)
+0023.104 (0) Table wp_masterslider_sliders: Total expected rows (approximate): 0
+0023.106 (0) Table wp_masterslider_sliders: Total rows added: 0 in 0.00 seconds
+0023.107 (0) Table wp_masterslider_sliders: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_masterslider_sliders.table.gz - 0.4 Kb)
+0023.114 (0) Table wp_redirection_404: Total expected rows (approximate): 7224
+0023.333 (0) Table wp_redirection_404: Total rows added: 7138 in 0.22 seconds
+0023.334 (0) Table wp_redirection_404: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_redirection_404.table.gz - 39.4 Kb)
+0023.338 (0) Table wp_redirection_groups: Total expected rows (approximate): 2
+0023.340 (0) Table wp_redirection_groups: Total rows added: 2 in 0.00 seconds
+0023.341 (0) Table wp_redirection_groups: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_redirection_groups.table.gz - 0.4 Kb)
+0023.344 (0) Table wp_redirection_items: Total expected rows (approximate): 22
+0023.347 (0) Table wp_redirection_items: Total rows added: 22 in 0.00 seconds
+0023.349 (0) Table wp_redirection_items: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_redirection_items.table.gz - 1 Kb)
+0023.353 (0) Table wp_redirection_logs: Total expected rows (approximate): 8
+0023.355 (0) Table wp_redirection_logs: Total rows added: 8 in 0.00 seconds
+0023.356 (0) Table wp_redirection_logs: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_redirection_logs.table.gz - 0.9 Kb)
+0023.359 (0) Table wp_redirection_modules: Total expected rows (approximate): 2
+0023.361 (0) Table wp_redirection_modules: Total rows added: 2 in 0.00 seconds
+0023.361 (0) Table wp_redirection_modules: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_redirection_modules.table.gz - 0.4 Kb)
+0023.364 (0) Table wp_w3tc_cdn_queue: Total expected rows (approximate): 0
+0023.366 (0) Table wp_w3tc_cdn_queue: Total rows added: 0 in 0.00 seconds
+0023.367 (0) Table wp_w3tc_cdn_queue: finishing file (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_w3tc_cdn_queue.table.gz - 0.4 Kb)
+0023.371 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_options.table.gz (1/23): adding to final database dump
+0023.404 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_users.table.gz (2/23): adding to final database dump
+0023.406 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_usermeta.table.gz (3/23): adding to final database dump
+0023.407 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_commentmeta.table.gz (4/23): adding to final database dump
+0023.408 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_comments.table.gz (5/23): adding to final database dump
+0023.409 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_links.table.gz (6/23): adding to final database dump
+0023.410 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_postmeta.table.gz (7/23): adding to final database dump
+0023.816 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_posts.table.gz (8/23): adding to final database dump
+0023.877 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_term_relationships.table.gz (9/23): adding to final database dump
+0023.890 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_term_taxonomy.table.gz (10/23): adding to final database dump
+0023.892 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_terms.table.gz (11/23): adding to final database dump
+0023.893 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_ewwwio_images.table.gz (12/23): adding to final database dump
+0023.904 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_huge_itslider_images.table.gz (13/23): adding to final database dump
+0023.905 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_huge_itslider_params.table.gz (14/23): adding to final database dump
+0023.906 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_huge_itslider_sliders.table.gz (15/23): adding to final database dump
+0023.907 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_masterslider_options.table.gz (16/23): adding to final database dump
+0023.908 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_masterslider_sliders.table.gz (17/23): adding to final database dump
+0023.909 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_redirection_404.table.gz (18/23): adding to final database dump
+0023.952 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_redirection_groups.table.gz (19/23): adding to final database dump
+0023.953 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_redirection_items.table.gz (20/23): adding to final database dump
+0023.954 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_redirection_logs.table.gz (21/23): adding to final database dump
+0023.955 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_redirection_modules.table.gz (22/23): adding to final database dump
+0023.956 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db-table-wp_w3tc_cdn_queue.table.gz (23/23): adding to final database dump
+0023.957 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db.gz: finished writing out complete database file (992 Kb)
+0023.968 (0) Total database tables backed up: 23 (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db.gz, size: 1043001, checksum (SHA1): 93c111f3ba61c43c3a5f9e1f06a1cfc6cffdd3da)
+0023.970 (0) Saving backup history
+0023.974 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0023.974 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0023.975 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0023.976 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-others.zip: others: This file has not yet been successfully uploaded: will queue
+0023.977 (0) backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db.gz: db: This file has not yet been successfully uploaded: will queue
+0023.979 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0023.981 (0) Cloud backup selection (1/1): s3 (last)
+0023.982 (0) Beginning dispatch of backup to remote (s3)
+0024.629 (0) Set region: us-west-2
+0024.630 (0) S3 upload (us-west-2): backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip (chunks: 4) -> s3://brightworks/backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip
+0025.060 (0) S3 chunked upload: got multipart ID: sUrv_wvrkbDxFSBDh5Jyi9aI.jdlhdI4S586.lge46wKJTFyy0hqwu45kBwY.ffn47T.CGtWx7DsNkulkyKLdhC4_IEccwyGGaq9.m7WaR1Z5ztf9afOgT3GI7dmgP9u
+0026.520 (0) S3 chunked upload: 25 % uploaded (1, "0e3ff8f26a7b359d3fcac5eaef06d243")
+0027.217 (0) S3 chunked upload: 50 % uploaded (2, "902421cba2b876372a6b368efa24d618")
+0027.895 (0) S3 chunked upload: 75 % uploaded (3, "009a5f14d94dc91aaf7e4247b88cf01d")
+0028.535 (0) S3 chunked upload: 100 % uploaded (4, "072a5909244911e85113e37bae9e798b")
+0028.538 (0) S3 upload: all chunks uploaded; will now instruct S3 to re-assemble
+0028.774 (0) S3 upload (plugins0): re-assembly succeeded
+0028.776 (0) Recording as successfully uploaded: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip (f2bb9965f2ceec5ab3b3781b3f699067)
+0028.785 (0) Deleting local file: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-plugins.zip: OK
+0028.786 (0) S3 upload (us-west-2): backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-themes.zip (chunks: 2) -> s3://brightworks/backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-themes.zip
+0028.874 (0) S3 chunked upload: got multipart ID: HCYF7zEo_uK4Z7cQJSRWMeZY.cAYnXOgELPxKsGUtaN6OowTdpR8kID7hOOvaEOKD3oQAOYkrxydcrbOEeRTcxskx421YYBMXvz065BSW7SyW6x3FACc.FRs_KCHXR_R
+0029.549 (0) S3 chunked upload: 50 % uploaded (1, "a651dbd49043719679125e4cfee9b723")
+0029.746 (0) S3 chunked upload: 100 % uploaded (2, "cb58d1db62c07b00ce542ae5ca2e6724")
+0029.748 (0) S3 upload: all chunks uploaded; will now instruct S3 to re-assemble
+0029.984 (0) S3 upload (themes0): re-assembly succeeded
+0029.986 (0) Recording as successfully uploaded: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-themes.zip (964a794b67e993284bfd42203693ba16)
+0029.990 (0) Deleting local file: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-themes.zip: OK
+0029.991 (0) S3 upload (us-west-2): backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-uploads.zip (chunks: 11) -> s3://brightworks/backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-uploads.zip
+0030.080 (0) S3 chunked upload: got multipart ID: N695y5GM19d702b7V9j8NHL2lSW6HpoH8Xgfbxb0OK7OL7xIvMwhqoWAG_EPmnQVMcWB5eRFnLrowkLZfbKurlEnjVSouSpY74dz6WLRgYYaZ9oQh_U4ZgvLwau8aChQ
+0030.776 (0) S3 chunked upload: 9.1 % uploaded (1, "d9328bf8ffbb472d6d827170d0f6c3b0")
+0031.484 (0) S3 chunked upload: 18.2 % uploaded (2, "0f562831613fcd6aa2c9a784cbc9c6fa")
+0032.168 (0) S3 chunked upload: 27.3 % uploaded (3, "1c590deae441187bacf40403961d41e8")
+0032.810 (0) S3 chunked upload: 36.4 % uploaded (4, "0ac5d8090a7b758846e7cdeda513705d")
+0033.519 (0) S3 chunked upload: 45.5 % uploaded (5, "70c82066bcadcddc7e04ba34f63f616f")
+0034.214 (0) S3 chunked upload: 54.5 % uploaded (6, "a0ecbe601cb9b21cc97fad831628c79d")
+0034.947 (0) S3 chunked upload: 63.6 % uploaded (7, "d7002dc3afed1ed69bc4d6d40b76d667")
+0035.630 (0) S3 chunked upload: 72.7 % uploaded (8, "48e30211e07862f6d4f45fb1e36f1dc7")
+0036.350 (0) S3 chunked upload: 81.8 % uploaded (9, "d7fde1169616dbaea861474a30efb33c")
+0037.680 (0) S3 chunked upload: 90.9 % uploaded (10, "bf79979b1aa0a2fadc7797e1056021dc")
+0039.078 (0) S3 chunked upload: 100 % uploaded (11, "6a8d65026eae60b44416c9faa692af94")
+0039.081 (0) S3 upload: all chunks uploaded; will now instruct S3 to re-assemble
+0039.309 (0) S3 upload (uploads0): re-assembly succeeded
+0039.311 (0) Recording as successfully uploaded: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-uploads.zip (54d4f85e99af311b59b7a6553127452d)
+0039.329 (0) Deleting local file: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-uploads.zip: OK
+0039.330 (0) S3 upload (us-west-2): backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-others.zip (chunks: 1) -> s3://brightworks/backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-others.zip
+0039.614 (0) S3 regular upload: success
+0039.616 (0) Recording as successfully uploaded: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-others.zip (2f38fb22e02bc769973a147a1a240c55)
+0039.620 (0) Deleting local file: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-others.zip: OK
+0039.621 (0) S3 upload (us-west-2): backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db.gz (chunks: 1) -> s3://brightworks/backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db.gz
+0039.871 (0) S3 regular upload: success
+0039.873 (0) Recording as successfully uploaded: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db.gz (e9755cf452c236aee9972921da9fc60e)
+0039.876 (0) Deleting local file: backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db.gz: OK
+0039.878 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=12, retain_db=30
+0039.879 (0) Number of backup sets in history: 2
+0039.880 (0) Examining backup set with datestamp: 1432158414 (May 20 2015 21:46:54)
+0039.881 (0) 1432158414: db: this set includes a database (backup_2015-05-20-1446_Brightworks_Sustainability_400fa0767fde-db.gz); db count is now 1
+0039.883 (0) 1432158414: this backup set remains non-empty (1/1); will retain in history
+0039.883 (0) Examining backup set with datestamp: 1432158225 (May 20 2015 21:43:45)
+0039.884 (0) 1432158225: db: this set includes a database (backup_2015-05-20-1443_Brightworks_Sustainability_f4820945e50a-db.gz); db count is now 2
+0039.885 (0) 1432158225: this backup set remains non-empty (1/1); will retain in history
+0039.886 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0039.887 (0) Resume backup (400fa0767fde, 0): finish run
+0039.889 (0) Decremented the semaphore (fd) by 1
+0039.890 (0) Semaphore (fd) unlocked
+0039.890 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0039.893 (0) No email will/can be sent - the user has not configured an email address.
+0039.894 (0) The backup apparently succeeded and is now complete

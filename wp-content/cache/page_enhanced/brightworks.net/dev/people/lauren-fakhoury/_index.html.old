@@ -1,0 +1,267 @@
+<!DOCTYPE HTML>
+<html><head>
+	<!-- <title>BrightWorks</title> -->
+	<title>Brightworks Sustainability</title>
+
+<script src="//use.typekit.net/ofi2hjp.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+
+	<meta name="viewport" content="width=device-width, minimumscale=1.0, maximum-scale=1.0" />
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700|Crete+Round">
+	<link rel="stylesheet" type="text/css" href="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/themes/brightworks/css/style.css?ver=7635">
+	<link rel="stylesheet" type="text/css" href="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/themes/brightworks/css/responsive.css">
+	<script src="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/themes/brightworks/js/jquery-1.10.2.min.js"></script>
+
+	<script src="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/themes/brightworks/js/jquery.masonry.js"></script>
+
+
+    
+
+ 
+
+<script src="http://www.brightworks.net/dev/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider-min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="http://www.brightworks.net/dev/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css">
+
+
+
+
+    
+                        <script src="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/themes/brightworks/js/Chart.min.js"></script>
+    <script>
+	    $(function(){
+			$(".project-slider-image").click(function() {
+				var img_path = $(this).css("background-image");
+
+				var imgUrl = img_path.replace("url(", "");
+				imgUrl = imgUrl.replace(")", "");
+				
+				imgUrl = imgUrl.replace(/"/g, '');
+				//imgUrl = '"' + imgUrl + '"';
+
+				$(".project-featured-image img").attr("src", imgUrl);
+				$(".project-slider-image").removeClass("selected-slider");
+				$(this).addClass("selected-slider");
+			});
+	    });
+	</script>
+            
+    
+    
+    
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#008fb4">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51732446-17', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+<body>
+	    <div id="contentContainer"></div>
+		<div id="header">
+			<div id="inner-header">
+				<div id="logo"><a href="http://brightworks.net/dev"><img src="http://d5v55k5cawcao.cloudfront.net/dev/wp-content/uploads/2014/10/Brightworks_Logo_500px.png" width="250px" /></a></div>
+
+
+
+				<div id="navigation">
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-7005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7005"><a href="http://brightworks.net/dev/services/">Services</a></li>
+<li id="menu-item-148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="http://brightworks.net/dev/projects/">Projects</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://brightworks.net/dev/clients/">Clients</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://brightworks.net/dev/people/">People</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://brightworks.net/dev/contact/">Contact</a></li>
+</ul></div>				</div>
+			</div>
+		</div>
+<div id="content-area">
+    <div style="margin:0 auto;width:1022px;position:relative;padding:15px 0;">
+    <div style="width:300px;float:left;"> <img style="width:310px;" src=""/>
+      <div class="periwinkleBg" style="width:270px;margin:5px 0;padding:20px;">
+        <h3 style="color:#003260; margin:0;">Contact Lauren Fakhoury</h3>
+        <ul style="list-style:none;margin:10px 15px 10px 0;padding:0;">
+                  <li style="margin: 5px 0;"><i class="fa fa-phone fa-fw" style="margin-right: 10px;vertical-align: middle;color: #003260;"></i><a style="font-size: 14px; color:#2b92b5;text-decoration:none;font-family:Open Sans;" href="tel:+14152302134">(415) 230-2134</a></li>
+                              <li style="margin: 5px 0;"><i class="fa fa-envelope fa-fw" style="margin-right: 10px;vertical-align: middle;color: #003260;"></i><a style="font-size: 14px; color:#2b92b5;text-decoration:none;font-family:Open Sans;" href="mailto:lauren.fakhoury@brightworks.net">lauren.fakhoury@brightworks.net</a></li>
+                             </ul>
+      </div>
+      
+      
+      
+      
+      
+<div class="periwinkleBg" style="width:270px;margin:5px 0;padding:20px;">
+
+<h3 style="margin:0; color:#003260;">Offices</h3>
+<ul style="list-style:none;margin:10px 0;padding:0;">
+<li><a style="text-decoration:none;" href="http://brightworks.net/dev/contact/#oakland-office"><div style="color:#2b92b5;font-family:Open Sans;font-size:14px;line-height:32px;text-decoration:none;">Oakland</div></li>
+</ul>
+</div>
+      
+      
+      
+      
+      <div class="periwinkleBg" style="width:270px;margin:5px 0;padding:20px;">
+
+
+
+    <h3 style="margin:0; color:#003260;">Other Oakland Staff</h3>
+        
+	<ul style="list-style:none;margin:10px 0;padding:0;">
+    
+    <li><a style="color:#2b92b5;font-family:Open Sans;font-size:14px;line-height:32px;text-decoration:none;" href="http://brightworks.net/dev/people/erin/">ERIN MULBERG</a></li><li><a style="color:#2b92b5;font-family:Open Sans;font-size:14px;line-height:32px;text-decoration:none;" href="http://brightworks.net/dev/people/james-jenkins/">JAMES JENKINS</a></li><li><a style="color:#2b92b5;font-family:Open Sans;font-size:14px;line-height:32px;text-decoration:none;" href="http://brightworks.net/dev/people/shilpa-surana/">SHILPA SURANA</a></li><li><a style="color:#2b92b5;font-family:Open Sans;font-size:14px;line-height:32px;text-decoration:none;" href="http://brightworks.net/dev/people/leilanie-bruce/">LEILANIE BRUCE</a></li><li><a style="color:#2b92b5;font-family:Open Sans;font-size:14px;line-height:32px;text-decoration:none;" href="http://brightworks.net/dev/people/jesus-bendezu/">JESÚS BENDEZÚ</a></li><li><a style="color:#2b92b5;font-family:Open Sans;font-size:14px;line-height:32px;text-decoration:none;" href="http://brightworks.net/dev/people/heath-blount/">HEATH BLOUNT</a></li></ul>        
+        
+        
+        
+        <p style="color:#676767;">VIEW ALL <a href="/dev/people" style="color:#008FB4;text-decoration:none;">OTHER STAFF &rsaquo;</a></p>
+      </div>
+      
+    </div>
+    <div style="width:680px;margin-left:40px;float:left;" class="person-profile">
+      <h2 style="font-weight:700;font-family:Open Sans;color:#01498B;margin:3px 0 0 0;">Lauren Fakhoury</h2>
+      <h3 style="font-weight:300;text-transform:uppercase;font-family:'museo-sans';color:#008FB4;margin:3px 0 15px 0;">Project Coordinator</h3>
+      <div class="profile" style="color:#676767;font-size:16px;letter-spacing:0.5px;"><p>Based in Brightworks Bay Area office in Oakland, CA, Lauren serves Brightworks clients throughout the United States.  Her areas of expertise include:</p>
+<ul>
+<li>LEED EB:O+M</li>
+<li>LEED BD+C</li>
+<li>Lean Six Sigma</li>
+<li>Process Improvement</li>
+<li>Project Management</li>
+<li>Analytics</li>
+</ul>
+<p>Before Brightworks, Lauren was a senior analyst in Accenture’s San Jose office, focused on business and systems integration, energy, and smart buildings. She managed a small team in creating a database of energy rebates, incentives, and commissioning programs and evaluated her client’s product information to validate its alignment with LEED criteria.</p>
+<p>As a research assistant and project consultant at Sustainable Design Consulting in Washington, DC, Lauren facilitated teams of owners, architects, and project managers through each stage of the LEED project lifecycle. Through her training and experience in project management and process improvement, she streamlined the firm’s process for LEED credit documentation and developed better credit documentation methods to help her clients meet higher certification targets.</p>
+ </div>
+              <br/>
+            <h4 style="font-family:Open Sans;color:#01498B;font-size:16px;margin:0;text-transform:uppercase;">Education</h4>
+      <div class="profile-cat"><ul>
+<li><strong>Washington University in St. Louis</strong><br />
+Master of Science (Construction Management)<br />
+Bachelor of Science (Civil Engineering)</li>
+</ul>
+</div>
+      <br/>
+                  <h4 style="font-family:Open Sans;color:#01498B;font-size:16px;margin:0;text-transform:uppercase;">Professional Memberships</h4>
+      <div class="profile-cat"><ul>
+<li><strong>U. S. Green Building Council</strong><br />
+LEED Accredited Professional, Existing Buildings: Operations + Maintenance (LEED AP EB:O+M)</li>
+<li><strong>U. S. Green Building Council (Northern California Chapter)</strong><br />
+Member</li>
+<li><strong>Association for the Advancement of Sustainability in Higher Education<br />
+</strong>Member</li>
+</ul>
+</div>
+      <br/>
+                  <h4 style="font-family:Open Sans;color:#01498B;font-size:16px;margin:0;text-transform:uppercase;">Selected Experience</h4>
+      <div class="profile-cat"><ul>
+<li>Accenture</li>
+<li>Sustainable Design Consulting</li>
+<li>Johnson &amp; Johnson</li>
+</ul>
+</div>
+      <br/>
+	                          
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+    
+        
+        
+</div> <!-- threeRelatedProjectsPeople -->
+        
+        
+        
+      
+      
+      
+      
+      
+      
+    </div>
+    <br style="clear:both;"/>
+  </div>
+</div>
+<br style="clear:both;"/>
+		<div id="footer">
+
+<div id="footer-inner-wrapper">
+				<ul	id="city-menu">
+
+                	
+					<li><a href="/contact/#portland">Portland</a></li>
+	
+					<li><a href="/contact/#oakland">Oakland</a></li>
+	
+					<li><a href="/contact/#seattle">Seattle</a></li>
+	
+					<li><a href="/contact/#los-angeles">Los Angeles</a></li>
+	
+					<li><a href="/contact/#new-york">New York</a></li>
+				</ul>
+
+
+
+<div id="footer-inner-wrapper">
+				
+				<div id="copyright-block">Copyright &copy; 2001-2015 Brightworks Sustainability Advisors. All rights reserved.</div>
+				
+			</div>
+
+
+			
+			<br style="clear:both;"/>
+		</div>
+	</div>
+</body>
+</html>
+<script>
+
+	    $(function(){
+			$(".profile-box").hover(function() { $(this).find(".profile-box-highlight").css("display", "block"); $(this).find(".peopleText").css("display", "block");}, function() { $(".profile-box-highlight").css("display", "none"); $(this).find(".peopleText").css("display", "none");}); 
+
+$(".noImagePresent").hover(function() { $(this).find(".profile-box-highlight").css("display", "block"); $(this).find(".peopleText").css("color", "#fff");}, function() { $(".profile-box-highlight").css("display", "none"); $(this).find(".peopleText").css({"color": "#008FB4","display": "block"});}); 
+
+			/* hyperlink added instead of this
+			$(".profile-box").click(function() {
+				window.location.href = '/profile?person='+$(this).attr("id");
+			});
+			*/
+	    });
+</script>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Content Delivery Network via d5v55k5cawcao.cloudfront.net
+
+ Served from: brightworks.net @ 2015-06-15 11:09:15 by W3 Total Cache -->

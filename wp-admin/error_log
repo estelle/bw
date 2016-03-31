@@ -1,0 +1,6 @@
+[28-Aug-2013 18:27:39 UTC] PHP Fatal error:  Call to undefined function register_field() in /home/atomport/public_html/dev/brightworks/wp-content/themes/brightworks/functions.php on line 14
+[07-Oct-2013 05:06:22 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 72 bytes) in /home/atomport/public_html/dev/brightworks/wp-includes/plugin.php on line 140
+[07-Oct-2013 05:06:29 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 72 bytes) in /home/atomport/public_html/dev/brightworks/wp-includes/plugin.php on line 140
+[07-Oct-2013 05:06:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 72 bytes) in /home/atomport/public_html/dev/brightworks/wp-includes/plugin.php on line 140
+[07-Oct-2013 05:07:16 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 72 bytes) in /home/atomport/public_html/dev/brightworks/wp-includes/plugin.php on line 140
+[07-Oct-2013 05:12:21 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/atomport/public_html/dev/brightworks/wp-content/plugins/acf-repeater/repeater.php on line 845
