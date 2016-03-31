@@ -18,6 +18,7 @@ Template Name: Profile
 					$email_address = get_field('email_address');
 					
 					$education = get_field('education');
+					$expertise = get_field('expertise');
 					$professional_memberships = get_field('professional_memberships');
 					$selected_experience = get_field('selected_experience');
 					$board_service = get_field('board_service');
@@ -166,6 +167,12 @@ if( get_field('featured_image',$selected_project->ID) ){
 	  
 	  ?>
       <br/>
+      <?php if ($expertise) { ?>
+      <h4 style="font-family:Open Sans;color:#01498B;font-size:16px;margin:0;text-transform:uppercase;">Education</h4>
+      <div class="profile-cat"><?php echo $expertise; ?></div>
+      <br/>
+      <?php } ?>
+      
       <?php if ($education) { ?>
       <h4 style="font-family:Open Sans;color:#01498B;font-size:16px;margin:0;text-transform:uppercase;">Education</h4>
       <div class="profile-cat"><?php echo $education; ?></div>
