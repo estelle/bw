@@ -164,7 +164,7 @@ if( get_field('featured_image',$selected_project->ID) ){
 	  ?>
       <br/>
       <?php if ($expertise) { ?>
-      <h4 style="">Expertise</h4>
+      <h4 style="font-family:Open Sans;color:#01498B;font-size:16px;margin:0;text-transform:uppercase;">Expertise</h4>
       <div class="profile-cat"><?php echo $expertise; ?></div>
       <br/>
       <?php } ?>
